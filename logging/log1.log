@@ -1,0 +1,4 @@
+INFO:root:30 + 50 = 80
+INFO:root:30 - 50 = -20
+DEBUG:root:30 + 50 = 80
+DEBUG:root:30 - 50 = -20
